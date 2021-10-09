@@ -1,0 +1,9 @@
+{
+  "name": "nsh-cli",
+  "version": "1.0.0",
+  "description": "A CLI that generates now.sh configuration files",
+  "main": "src/index.js",
+  "keywords": [],
+  "author": "AshtonTheDeveloper",
+  "license": "MIT"
+}
