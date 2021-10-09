@@ -7,7 +7,18 @@
   "scripts": {
     "lint": "eslint src/"
   },
-  "keywords": [],
+  "keywords": [
+    "atd",
+    "ashtonthedeveloper",
+    "nsh-cli",
+    "nsh",
+    "cli",
+    "now",
+    "now.sh",
+    "react",
+    "vue",
+    "static"
+  ],
   "author": "AshtonTheDeveloper",
   "license": "MIT",
   "dependencies": {
