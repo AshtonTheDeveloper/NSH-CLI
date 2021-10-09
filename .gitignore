@@ -118,5 +118,4 @@ dist
 .pnp.*
 
 # Formatting Files
-eslintrc.js
-.prettierrc
+
