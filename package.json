@@ -3,7 +3,19 @@
   "version": "1.0.0",
   "description": "A CLI that generates now.sh configuration files",
   "main": "src/index.js",
+  "scripts": {
+    "lint": "eslint src/"
+  },
   "keywords": [],
   "author": "AshtonTheDeveloper",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "inquirer": "^8.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.24.2"
+  }
 }
